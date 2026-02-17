@@ -29,13 +29,3 @@ Student Applied computer science at HOGENT
 
 - 🤖 AI tools using embeddings & vector search  
 - 🎮 Game-related systems and mechanics  
-
----
-
-## 📈 Goals
-
-- Write clean, maintainable code  
-- Design efficient database structures  
-- Build production-ready applications  
-- Continuously improve problem-solving skills  
-
