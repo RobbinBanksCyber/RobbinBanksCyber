@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**RobbinBanksCyber/RobbinBanksCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student Applied computer science at HOGENT
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+- JavaScript
+- PHP
+- Python
+- SQL
+- HTML & CSS
+- JAVA
+- C#
+- LUA
+
+---
+
+## 🧠 Current Focus
+
+- Completing school
+- Having fun
+- Making fun projects
+
+---
+
+## 🎮 Projects I Enjoy Building
+
+- 🤖 AI tools using embeddings & vector search  
+- 🎮 Game-related systems and mechanics  
+
+---
+
+## 📈 Goals
+
+- Write clean, maintainable code  
+- Design efficient database structures  
+- Build production-ready applications  
+- Continuously improve problem-solving skills  
+
