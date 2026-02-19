@@ -44,7 +44,7 @@
 
 - Main: Miyabi
 
-  <img src="https://media1.tenor.com/m/yUWztlbVKoQAAAAd/happy-hoshimi-miyabi.gif" alt="Zenless Zone Zero GIF" width="260" height="220" />
+  <img src="https://media1.tenor.com/m/aFbvUkn8djMAAAAd/hoshimi-miyabi-zzz.gif" alt="Zenless Zone Zero GIF" width="260" height="220" />
 
 ### Wuthering Waves
 
